@@ -10,15 +10,24 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var a = 1
+    var b = 2
+    var c = 3
+    var d = 4
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        
-        
-        
+        if a == 1 {
+            if b == 2 {
+                if c == 3 {
+                    if d == 4 {
+                        
+                    }
+                }
+            }
+        }
     }
-
-
 }
 
