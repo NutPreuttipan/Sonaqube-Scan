@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
+        // Do Someting
         if a == 1 {
             if b == 2 {
                 if c == 3 {
