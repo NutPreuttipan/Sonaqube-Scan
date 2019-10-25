@@ -19,15 +19,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // Do Someting eiei
-        if a == 1 {
-            if b == 2 {
-                if c == 3 {
-                    if d == 4 {
-                        
-                    }
-                }
-            }
-        }
+        
     }
 }
 
