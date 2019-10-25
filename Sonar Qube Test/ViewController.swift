@@ -20,25 +20,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         // Do Someting eiei
         // Do Do
-        if a == 1 {
-            if b == 2 {
-                if c == 3 {
-                    if d == 4 {
-                        
-                    }
-                }
-            }
-        }
         
-        if a == 1 {
-            if b == 2 {
-                if c == 3 {
-                    if d == 4 {
-                        
-                    }
-                }
-            }
-        }
     }
 }
 
